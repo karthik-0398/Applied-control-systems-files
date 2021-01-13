@@ -4,6 +4,8 @@ This repository contains all the project files that were made for the module ELE
 x<sub>k+1</sub> = x<sub>k</sub> + u<sub>k</sub>  ;
 y<sub>k</sub> = x<sub>k</sub>
 
+![cost_function](https://github.com/ks6n19/Applied-control-systems-files/blob/master/cost_function.PNG)
+
 The Readme can be found at [lqr/LQR/LQR rep.pdf](https://github.com/ks6n19/Applied-control-systems-files/blob/master/lqr/LQR/LQR%20rep.pdf).
 
 ## Model Predictive system :
@@ -12,6 +14,8 @@ y<sub>k</sub> = x<sub>k</sub>
 There are constraints that the control signal  u<sub>k</sub> must belong to a predefined set U, i.e.
  u<sub>k</sub>  ∈ U , k ≥ 0
  
+![cost_function](https://github.com/ks6n19/Applied-control-systems-files/blob/master/cost_function.PNG) 
+
 The Readme can be found at [mpc/IEEE_Conference_Template.pdf](https://github.com/ks6n19/Applied-control-systems-files/blob/master/mpc/IEEE_Conference_Template.pdf).
 
 ## Iterative Learning system : 
