@@ -9,7 +9,7 @@ The Readme can be found at [lqr/LQR/LQR rep.pdf](https://github.com/ks6n19/Appli
 ## Model Predictive system :
 x<sub>k+1</sub> = x<sub>k</sub> + u<sub>k</sub>  ;
 y<sub>k</sub> = x<sub>k</sub>
-There are constraints that the control signal �" must belong to a predefined set �, i.e.
+There are constraints that the control signal  u<sub>k</sub> must belong to a predefined set U, i.e.
  u<sub>k</sub>  ∈ U , k ≥ 0
  
 The Readme can be found at [mpc/IEEE_Conference_Template.pdf](https://github.com/ks6n19/Applied-control-systems-files/blob/master/mpc/IEEE_Conference_Template.pdf).
