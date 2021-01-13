@@ -1,0 +1,9 @@
+[My Computer]
+My Computer = "172.22.11.1"
+
+[My-cRIO]
+My-cRIO = "0.0.0.0"
+
+[My-myRIO]
+My-myRIO = "172.22.11.2"
+
